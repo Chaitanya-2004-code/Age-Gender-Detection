@@ -20,3 +20,10 @@ Simple Age and Gender detector using Machine Learning
 
 ## Sample Outputs
 ### Sample Output 1:
+![sample Output 1](https://github.com/Chaitanya-2004-code/Age-Gender-Detection/blob/main/Output%201%20Age%20Gender.png)
+
+### Sample Output 2:
+![sample Output 2](https://github.com/Chaitanya-2004-code/Age-Gender-Detection/blob/main/Output%202%20Age%20Gender.png)
+
+### Sample Output 3:
+![sample Output 3](https://github.com/Chaitanya-2004-code/Age-Gender-Detection/blob/main/Output%203%20Age%20Gender.png)
